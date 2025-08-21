@@ -102,7 +102,7 @@ body {
   margin: 0;
 }
 
-.banner-btn {
+.btn {
   color: #ffffff;
   border-style: none;
   background-color: #4d5ae5;
@@ -116,8 +116,8 @@ body {
   transition: all 0.2s ease-out;
 }
 
-.banner-btn:hover,
-.banner-btn:focus {
+.btn:hover,
+.btn:focus {
   background-color: #404BBF;
 }
 
