@@ -113,15 +113,12 @@ body {
   line-height: 1.5;
   letter-spacing: 0.04em;
   transition: all 0.2s ease-out;
-}
-
-.banner-btn:hover,
-.banner-btn:focus {
-  background-color: #404BBF;
-  color: #ffffff;
   cursor: pointer;
 }
-
+.banner-btn:hover,
+.banner-btn:focus {
+  background-color: #404bbf;
+}
 .stand-out-list {
   margin: auto;
   justify-content: space-around;
