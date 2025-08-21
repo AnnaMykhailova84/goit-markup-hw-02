@@ -119,6 +119,7 @@ body {
 .banner-btn:hover,
 .banner-btn:focus {
   background-color: #404BBF;
+  color: #ffffff;
 }
 
 .stand-out-list {
