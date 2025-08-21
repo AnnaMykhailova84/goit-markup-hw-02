@@ -116,10 +116,7 @@ body {
   transition: all 0.2s ease-out;
 }
 
-.banner-btn:hover {
-  background-color: #404BBF;
-}
-
+.banner-btn:hover,
 .banner-btn:focus {
   background-color: #404BBF;
 }
